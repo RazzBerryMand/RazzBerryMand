@@ -2,7 +2,7 @@
 
 # Mand Cashin (She/Her)
 
-Hi! My name is Mand. I live in Manchester, England. I learnt to code at **Northcoders** in 2018 and I am now a professional front end developer with roughly 3 years experience. I volunteer as a mentor at **Code Your Future** in my spare time.
+Hi! My name is Mand. I live in Manchester, England. I learnt to code at **Northcoders** in 2018 and have been working as a professional front end developer since 2019. I currently work at **DEPT** and in my spare time I volunteer as an instructor at **Code First Girls**.
 
 ## WANT TO SEE MORE?
 
