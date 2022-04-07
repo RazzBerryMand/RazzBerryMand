@@ -10,7 +10,7 @@ Hi! Mand is my name. Manchester, England is where I call home. I learned to code
 
 🔗 [Codepen](https://codepen.io/razzberrymand) - I've built up a showcase of creative CSS and dummy components.
 
-🔗 [YouTube](https://tinyurl.com/razzberrymand) - My main hobby is Pokémon GO and I enjoy making vlogs about the game.
+🔗 [YouTube](https://tinyurl.com/razzberrymand) - My main hobby is Pokémon GO and sometimes I record vlogs about the game.
 
 ## DIVERSITY & INCLUSION
 
