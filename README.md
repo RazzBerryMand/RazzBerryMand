@@ -6,11 +6,11 @@ Hi! My name is Mand. I live in Manchester, England. I learnt to code at **Northc
 
 ## WANT TO SEE MORE?
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mandcashin/) - Online resume.
+🔗 [LinkedIn](https://www.linkedin.com/in/mandcashin/) - Send me a connection request if you'd like to follow my career journey.
 
-🔗 [Codepen](https://codepen.io/razzberrymand) - Creative CSS.
+🔗 [Codepen](https://codepen.io/razzberrymand) - I've built up a showcase of creative CSS and dummy components.
 
-🔗 [YouTube](https://tinyurl.com/razzberrymand) - Pokémon GO vlog.
+🔗 [YouTube](https://tinyurl.com/razzberrymand) - My main hobby is Pokémon GO and I enjoy making vlogs about the game.
 
 ## DIVERSITY & INCLUSION
 
