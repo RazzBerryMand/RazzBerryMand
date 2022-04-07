@@ -14,4 +14,4 @@ Hi! My name is Mand. I live in Manchester, England. I learnt to code at **Northc
 
 ## DIVERSITY & INCLUSION
 
-Feel free to reach out to me to discuss this further. I am passionate about helping people from all backgrounds start their careers in tech. Coding is for everyone!
+Feel free to reach out to me for a chat. I am passionate about helping people from all backgrounds start their careers in tech.
