@@ -1,4 +1,4 @@
-![GitHub Banner](https://user-images.githubusercontent.com/41064490/170868282-9a8e6681-0dbd-42b0-a0ce-59444f10da43.gif)
+![GitHub Banner](https://user-images.githubusercontent.com/41064490/189099297-8b7bd121-7192-4d64-b8f3-a5131916227b.gif)
 
 <h1 align='center'>Hiya! 👋</h1>
 <p align='center'>
