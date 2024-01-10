@@ -8,8 +8,4 @@ My name is Mand and I'm a Front End Developer from Manchester, UK.
 Check out my CSS here:
 <a href="https://codepen.io/RazzBerryMand/">CodePen</a>
 </p>
-<p align='center'>
-Watch my Pokémon GO videos here:
-<a href="https://www.youtube.com/channel/UCn812ePu4R5pIqEVWaNdHNg">YouTube</a>
-</p>
 <h2 align='center'><i>I'd love it if you followed me! 💖</i></h2>
